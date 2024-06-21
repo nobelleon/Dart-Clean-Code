@@ -1,7 +1,5 @@
 # Dart-Clean-Code Repository
 
-# Dart Clean Code Repository
-
 Welcome to the Dart Clean Code Repository - a treasure trove for developers seeking to improve their coding skills and write more efficient, readable code.
 
 This repository was born out of an immersive journey through Robert C. Martin's seminal work, 'Clean Code.' It reflects my endeavor to translate the wisdom and guidelines from this transformative book into practical, executable Dart code.
